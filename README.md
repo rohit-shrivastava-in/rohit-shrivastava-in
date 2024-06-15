@@ -7,7 +7,7 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit Shrivastava(rohit-shrivastava-in)</h1>
 <p align="center"> -->
 <h3>I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
-✔ I’m currently learning about <b>Flutter</b> <br>
+✔ I’m currently learning about <b>NextJS</b> <br>
 ✔ I’m looking to collaborate with any <b>Open-Source Javascript Project</b><br>
 ✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact: I Always try to learn something new and then sleep till it stores in the brain_ 😎<br>
