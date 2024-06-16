@@ -33,7 +33,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra">
+        <a href="https://github.com/rohit-shrivastava-in">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-shrivastava-in&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -41,7 +41,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra">
+        <a href="https://github.com/rohit-shrivastava-in">
           <img align="center" src="https://streak-stats.demolab.com?user=rohit-shrivastava-in&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -51,7 +51,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra/Awesome-Dev-Portfolios">
+        <a href="https://github.com/rohit-shrivastava-in/lms-next14">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit-shrivastava-in&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
